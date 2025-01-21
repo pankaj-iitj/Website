@@ -108,10 +108,10 @@ const MeInfo: React.FC = () => {
               <h3 className="font-serif text-2xl font-semibold text-blue-800">
                 Dr. Pankaj Yadav
               </h3>
-              <p className="text-lg text-blue-600">Assistant Professor</p>
+              <p className="text-lg text-blue-600">Associate Professor</p>
               <div className="text-gray-600">
-                <p>BioScience and BioEngineering Department</p>
-                <p>Indian Institute of Technology, Jodhpur, India</p>
+                <p>Department of Bioscience and Bioengineering,</p>
+                <p>Indian Institute of Technology, Jodhpur, India.</p>
               </div>
               {data?.cv && (
                 <Button asChild variant="default" className="mt-4 w-full">
